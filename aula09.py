@@ -7,11 +7,11 @@
 'lstrip() remove os espaços da esqueda'
 'split() divisão entre as strings'
 
-frase = 'Curso em Vídeo Python'
+frase = "Curso em Vídeo Python"
 'print(frase[3:13])'
 'print(frase[13:])'
 'print(frase[1::15])'
-'print(frase[::2])'
+print(frase[::2])
 'print(frase.upper().count())'
 #print(frase.replace('Python', 'Android'))
 #frase = frase.replace('Python', 'Android')
