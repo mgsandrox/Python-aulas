@@ -25,6 +25,6 @@ print('Fim')'''
 
 s = 0
 for c in range(0, 4):
-    n = int(input('Digite um valor: '))# Usando um laço para somar com variaveis 
+    n = int(input('Digite um valor: '))# Usando um laço para somar com variaveis
     s += n
 print(f'O somatorio de todos os valores foi {s}')
