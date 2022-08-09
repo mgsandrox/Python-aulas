@@ -26,5 +26,5 @@ print('Fim')
 s = 0
 for c in range(0, 4):
     n = int(input('Digite um valor: '))# Usando um laço para somar com variaveis
-    s += n
+    s += n #O sinal de +  e de =  juntos significa que a variavel recebe ela mesma mais um numero ou outra variavel, outros explos no ex.: 48
 print(f'O somatorio de todos os valores foi {s}')
